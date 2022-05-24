@@ -4,7 +4,7 @@
 
 <!-- With the [Two Course Limit](https://cse.engin.umich.edu/academics/for-current-students/advising/enrollment/) rules for UMich EECS Upper Level courses, if you want to enroll in more than two ULCS courses, you had better pay attention to whether the third one has its waitlist open so that you can get in the list early enough. This script is designed to monitor the open seats of the ULCS courses you want to enroll in. As soon as the available seats become 0 for any lecture or lab session, it will send a notification email. -->
 
-Cloned from [umich-ulcs-monitor](https://github.com/Waley-Z/umich-ulcs-monitor). This program monitors availability of Canyon Campground at Yellowstone National Park.
+Forked from [umich-ulcs-monitor](https://github.com/Waley-Z/umich-ulcs-monitor). This program monitors availability of Canyon Campground at Yellowstone National Park.
 
 ## Getting Started
 

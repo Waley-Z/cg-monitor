@@ -8,11 +8,6 @@ Forked from [umich-ulcs-monitor](https://github.com/Waley-Z/umich-ulcs-monitor).
 
 ## Getting Started
 
-- Install `bs4`
-    ```bash
-    $ pip3 install bs4
-    ```
-
 - Configure `SENDER_EMAIL`, `SENDER_PASSWORD`, `RECEPIENT_EMAILS`, and `UPDATE_INTERVAL` in `monitor.py`.
 
 - Run the script
